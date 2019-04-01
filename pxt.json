@@ -1,0 +1,17 @@
+{
+    "name": "pxt_DS18B20_microbit",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "DS18B20.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
